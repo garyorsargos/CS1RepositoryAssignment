@@ -4,4 +4,4 @@ Build: gcc lab_assignment_5.c
 
 ----
 
-### This Repo was made my Gary Orsargos (NID - ga080892)
+### This Repo was made by Gary Orsargos (NID - ga080892)
